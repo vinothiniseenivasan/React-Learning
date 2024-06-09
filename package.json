@@ -2,7 +2,7 @@
   "name": "react-basic",
   "version": "1.0.0",
   "description": "this is react basic",
-  "main": "index.js",
+  
   "scripts": {
     "test": "jest"
   },

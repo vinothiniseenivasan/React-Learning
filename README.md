@@ -2,7 +2,21 @@
   -dev build
   -local server
   -refreshing our page
-      HMR => hard module replacement
-      file  watching algorithm - c++
-      faster builds
-      hi
+     > HMR => hot module replacement
+     > file  watching algorithm - c++
+     > faster builds
+     > image optimization
+     > bundling
+     > minfication
+     > compress
+     > consistent hashing
+          disrtibute data among set of nodes
+     > differential bundling
+          we can use different browser
+          support older browser
+     >Tree-Shaking
+          removed unsaved files
+          Different dev and bundle
+    
+
+
