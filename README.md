@@ -18,5 +18,10 @@
           removed unsaved files
           Different dev and bundle
     
-
+npm install
+npm install -d parcel
+npm react
+npm reactdom
+npx parcel index.html
+npx parcel build index.html
 
